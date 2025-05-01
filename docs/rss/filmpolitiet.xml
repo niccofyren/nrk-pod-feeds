@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Apr 2025 12:57:56 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Apr 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 May 2025 12:24:52 +0000</lastBuildDate>
+    <pubDate>Thu, 01 May 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>The Handmaid's Tale S6: Skremmende aktuell</title>
+      <description><![CDATA[Finalesesongen av «The Handmaid's Tale» er en dirrende advarsel om å ikke ta demokratiet og kvinners rettigheter for gitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/170e78f1-2d4c-4606-adcd-67355d816622_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/170e78f1-2d4c-4606-adcd-67355d816622_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:56</itunes:duration>
+      <pubDate>Thu, 01 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L0Ky9R4d4JFdoPfEG2N33wh5N-HIfBFHXmgZ39SThkTw.jpg"/>
+    </item>
     <item>
       <title>Andor S2: Gripende Star Wars-høydepunkt</title>
       <description><![CDATA[«Andor» løfter stjernekampen til nye høyder – terningkast 6 fra Sigurd!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>29:15</itunes:duration>
       <pubDate>Thu, 27 Feb 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/1EK9cdVrg-ap2oWVjX2MTA3yrm5kqG1T8UVWfHd9mq9g.jpg"/>
-    </item>
-    <item>
-      <title>The White Lotus S3: Djevelsk god satire</title>
-      <description><![CDATA[Det er ren TV-luksus å bli servert nok en saftig runde med «The White Lotus» på Max. Sigurd triller terningkast 5!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/21e47752-5873-4596-92e1-2b07c93bf754_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/21e47752-5873-4596-92e1-2b07c93bf754_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:07</itunes:duration>
-      <pubDate>Thu, 20 Feb 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4OGA1QLLcZ8NjdVfg19e9QDUTD-j6wicIPH5bMIceRfw.jpg"/>
     </item>
   </channel>
 </rss>
