@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 May 2025 12:24:52 +0000</lastBuildDate>
-    <pubDate>Thu, 01 May 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 May 2025 12:25:07 +0000</lastBuildDate>
+    <pubDate>Thu, 08 May 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>The Legend of Ochi: Vakreste eventyrfilm på lenge</title>
+      <description><![CDATA[Birger anmelder «The Legend of Ochi» til terningkast 5! En stilsikker eventyrfilm som spiller godt på vår fascinasjon for folklore med mørke stemninger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/27a86455-4584-4a45-ae5d-70745a7d6efa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/27a86455-4584-4a45-ae5d-70745a7d6efa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:07</itunes:duration>
+      <pubDate>Thu, 08 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VigTTs7FQ2s_cwMXdyig6QuJ3ZNf6hbA57IbiHbHXWSg.jpg"/>
+    </item>
     <item>
       <title>The Handmaid's Tale S6: Skremmende aktuell</title>
       <description><![CDATA[Finalesesongen av «The Handmaid's Tale» er en dirrende advarsel om å ikke ta demokratiet og kvinners rettigheter for gitt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:42</itunes:duration>
       <pubDate>Thu, 06 Mar 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RaYMQy_p1w_ku3w9pxlSqgXhAN-lEJOgeYHC_qULnAKw.jpg"/>
-    </item>
-    <item>
-      <title>The Brutalist: Svimlende ambisjoner</title>
-      <description><![CDATA[10 ganger Oscar-nominerte «The Brutalist» er et stort og mektig drama som gjør inntrykk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/2fe17513-1e1b-4385-8262-34b3e8b647d9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/2fe17513-1e1b-4385-8262-34b3e8b647d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:15</itunes:duration>
-      <pubDate>Thu, 27 Feb 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1EK9cdVrg-ap2oWVjX2MTA3yrm5kqG1T8UVWfHd9mq9g.jpg"/>
     </item>
   </channel>
 </rss>
