@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 May 2025 12:25:07 +0000</lastBuildDate>
-    <pubDate>Thu, 08 May 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 May 2025 12:25:14 +0000</lastBuildDate>
+    <pubDate>Thu, 15 May 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>Pørni S5: Beste siden den første</title>
+      <description><![CDATA[Vi tar et varmt og tårevått farvel med Pørni, som blir belønnet med terningkast 6 for sin siste sesong!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/3c25eb24-8b61-4496-8902-05375c3401af_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/3c25eb24-8b61-4496-8902-05375c3401af_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:56</itunes:duration>
+      <pubDate>Thu, 15 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hk1XVIRpvvBhkHSTd_4FZAcGs0mraGNfEw5QmSA1XdOg.jpg"/>
+    </item>
     <item>
       <title>The Legend of Ochi: Vakreste eventyrfilm på lenge</title>
       <description><![CDATA[Birger anmelder «The Legend of Ochi» til terningkast 5! En stilsikker eventyrfilm som spiller godt på vår fascinasjon for folklore med mørke stemninger.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>25:12</itunes:duration>
       <pubDate>Thu, 13 Mar 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MJogRuX2OZA1EyQxcwzmCgKWiFSW6I4GIZbao3LWkwyQ.jpg"/>
-    </item>
-    <item>
-      <title>Den stygge stesøsteren: Blodig og lekkert eventyr</title>
-      <description><![CDATA[«Den stygge stesøsteren» er en ny vri på Askepott-fortellingen, som på ingen måte er en barnefilm!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/88aab304-056a-4af4-b070-6a9377b22082_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/88aab304-056a-4af4-b070-6a9377b22082_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:42</itunes:duration>
-      <pubDate>Thu, 06 Mar 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RaYMQy_p1w_ku3w9pxlSqgXhAN-lEJOgeYHC_qULnAKw.jpg"/>
     </item>
   </channel>
 </rss>
