@@ -1425,7 +1425,7 @@ const feeds = [
     "id": "the_kaass_furuseths",
     "title": "De 10 siste fra The Kåss Furuseths",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "timeout",
