@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2025-05-29  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+### 2025-05-29  
 - Updated podcast 'Luođis luohtái' (`luois_luohti`)  
 ### 2025-05-26  
 - Updated podcast 'Kaffipraatti' (`kaffipraati`)  
